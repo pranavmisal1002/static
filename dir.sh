@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdir maindir
-touch main-branch
+mkdir dev
+touch dev-branch
